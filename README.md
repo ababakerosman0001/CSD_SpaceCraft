@@ -120,7 +120,7 @@ The voltage demand peaks sharply at t = 0 (large initial error) then decays smoo
 
 ### Pole Migration: Open-Loop → LQR Closed-Loop
 
-![LQR Poles](lqr_poles.png)
+
 
 LQR shifts the dominant poles from **−0.6 ± 1.28j** (slow, oscillatory) to **−1.08 ± 1.03j** (faster, better-damped), pulling them further into the left-half plane. A third real pole is also introduced by the three-state model.
 
