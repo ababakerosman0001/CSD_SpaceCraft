@@ -237,6 +237,4 @@ The PID controller acts on a single error signal. The LQR has access to (or esti
 ### Bryson's Rule for Q/R Tuning
 A principled starting point: set Q(i,i) = 1/x_max(i)² and R = 1/u_max². This normalises all states and inputs to dimensionless quantities before the optimisation.
 
----
 
-*Generated as an extension to the spacecraft attitude control case study. All plant parameters sourced directly from the reference paper.*
